@@ -1,0 +1,15 @@
+.img-full {
+  width: 100vw;
+}
+
+#main-text {
+  margin: 1.5rem 0;
+  max-width: 1320px;
+  width: 100%;
+  padding-left: var(--bs-gutter-x, .75rem);
+  padding-right: var(--bs-gutter-x, .75rem);
+}
+
+.nav-item > a:hover {
+  color: #60b483 !important;
+}
